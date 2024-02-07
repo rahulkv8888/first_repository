@@ -1,3 +1,9 @@
 #!/bin/bash.sh
 #author: person
-#
+#Date: 07 Feb 2024
+#writing some code for basic
+#basics of script writing
+a=b+c
+b=34
+c=23
+echo "we are adding two no."
