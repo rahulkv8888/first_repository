@@ -7,3 +7,6 @@ a=b+c
 b=34
 c=23
 echo "we are adding two no."
+p=r*s
+echo "we are multilying two no."
+
