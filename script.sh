@@ -9,4 +9,6 @@ c=23
 echo "we are adding two no."
 p=r*s
 echo "we are multilying two no."
+m=n%o
+echo "percentile of two no."
 
