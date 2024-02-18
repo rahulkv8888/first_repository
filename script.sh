@@ -11,4 +11,8 @@ p=r*s
 echo "we are multilying two no."
 m=n%o
 echo "percentile of two no."
+r=m/n
+echo "division is also added"
+r=m/n
+echo "division is also added"
 
