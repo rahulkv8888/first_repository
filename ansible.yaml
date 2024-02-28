@@ -1,0 +1,11 @@
+---
+-Name: nstall Nginx
+host: all
+become: true
+
+task: 
+-Name: Nginx
+state: present
+name: nginx
+  #ansible file
+
